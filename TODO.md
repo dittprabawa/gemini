@@ -1,0 +1,5 @@
+- [x] Make border neater by adjusting width and alignment
+- [x] Change prompt from "You: " to "> "
+- [x] Test the updated display
+- [x] Add special commands (/code, /translate, /help) to cli_gpt.py
+- [x] Test the new commands in the bot

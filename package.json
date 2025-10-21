@@ -1,0 +1,15 @@
+{
+  "name": "ditbot-cli",
+  "version": "0.0.2",
+  "description": "A simple CLI tool to chat with ChatGPT",
+  "main": "cli_gpt_node.js",
+  "scripts": {
+    "start": "node cli_gpt_node.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

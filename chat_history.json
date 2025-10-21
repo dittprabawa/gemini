@@ -1,0 +1,1 @@
+[{"role": "user", "parts": ["Hello"]}, {"role": "model", "parts": ["Hi there! How can I help you today?"]}, {"role": "user", "parts": ["What's the weather like?"]}, {"role": "model", "parts": ["I'm sorry, I don't have access to real-time weather data. Can I assist with something else?"]}]
